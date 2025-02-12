@@ -1,4 +1,5 @@
-# this is just the fabric example mod so you can just use "./gradlew build" to build it yourself. just replace the files that are in the example mod with the files in this repo
+# this is just the fabric example mod so you can just use "./gradlew build" to build it yourself. just replace the files that are in the example mod with the files in this repo </br>
+source file is in src/main/java/com/example/iForgotMyPills.java
 
 ## Setup
 
